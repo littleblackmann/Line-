@@ -2,6 +2,7 @@
 > * 創作起始日：2024/04/02
 > * 最後更新日：2024/04/15
 > * 使用系統：Ubuntu22.04.4_Desktop
+> * 後端創作者：小黑
 
 ### [LineBot更新參考網站](https://github.com/line/line-bot-sdk-python)
 

@@ -20,8 +20,8 @@ from linebot.v3.webhooks import (
 app = Flask(__name__)
 
 # 設定通道存取令牌和秘密
-configuration = Configuration(access_token='')
-handler = WebhookHandler('')
+configuration = Configuration(access_token='輸入自己Line token')    
+handler = WebhookHandler('輸入自己Line token')
 
 # 資料庫連線配置
 dbconfig = {

@@ -74,8 +74,8 @@
 
 #### 找到ngrok位置
 `find ~ -name ngrok`
-會顯示 \n
-/home/littleblack0830/snap/ngrok                     # 改成自己位置\n
+會顯示 
+/home/littleblack0830/snap/ngrok                     # 改成自己位置
 /home/littleblack0830/snap/ngrok/138/.config/ngrok。 # 改成自己位置
 
 # 啟動ngrok.sh

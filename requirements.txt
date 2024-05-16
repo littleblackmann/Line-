@@ -1,0 +1,11 @@
+line-bot-sdk
+bs4
+Flask
+pymongo
+pandas
+snowballstemmer  # If SnowNLP requires this
+emoji
+pyshorteners
+scipy
+gunicorn
+

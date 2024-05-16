@@ -4,9 +4,6 @@
 > * 使用系統：Ubuntu22.04.4_Desktop
 
 ### [LineBot更新參考網站](https://github.com/line/line-bot-sdk-python)
-### [結合爬蟲技術參考網站](https://hackmd.io/@rszong9598/BkP3QnQlR)
-### [新增爬蟲觸發參考網站](https://hackmd.io/@rszong9598/Byrv_IUgR)
-
 
 ## 項目緣起：
 1. 在快節奏的現代生活中，人們尋求更便利和有效率的方式來滿足日常需求，尤其是在餐飲服務領域。
